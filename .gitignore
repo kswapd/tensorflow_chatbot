@@ -1,2 +1,8 @@
-data/
 *.pyc
+data/corpus
+data/__MACOSX
+data/pull_data.sh
+data/test.enc.ids20000
+data/train.dec.ids20000
+data/train.enc.ids20000
+working_dir
